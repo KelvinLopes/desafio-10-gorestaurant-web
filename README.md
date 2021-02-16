@@ -32,8 +32,4 @@ Rodar o projeto ```yarn start```
 
 Rodar a fake api ```yarn json-server server.json -p 3333```
 
-Se estiver no ```Chrome OS```, talves precise rodar a fake api desse modo:
-
-```yarn json-server --host ip_do_seu_container_crostini server.json -p 3333```
-
 Rodar os testes no projeto ```yarn test```
